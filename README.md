@@ -37,14 +37,14 @@ GKLDSWEKIRLR
 KLDKWEKIR
 ```
 Output files example: test_output.txt. it includes six columns:   
-Peptides, 
-C-terminal_P1, #amino acid at the P1 site of C-Terminus 
-N-terminal_P2, #amino acid at the P2 site of N-Terminus 
-C_Cleavability_Level, 
-N_Cleavability_Level, 
-Peptide_Cleavability_Level, 
-Level,  #peptide cleavability level 
-Rank,   #peptide cleavability level rank 
+Peptides,  
+C-terminal_P1, #amino acid at the P1 site of C-Terminus   
+N-terminal_P2, #amino acid at the P2 site of N-Terminus   
+C_Cleavability_Level,   
+N_Cleavability_Level,   
+Peptide_Cleavability_Level,  
+Level,  #peptide cleavability level  
+Rank,   #peptide cleavability level rank  
 ```
 Peptides,C-terminal_P1,N-terminal_P2,C_Cleavability_Level,N_Cleavability_Level,Peptide_Cleavability_Level,Level,Rank
 ASILRGGKLDK,K,S,Medium,Low,Medium_Low,Level 2,2
