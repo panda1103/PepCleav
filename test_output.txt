@@ -1,0 +1,21 @@
+Peptides,C-terminal_P1,N-terminal_P2,C_Cleavability_Level,N_Cleavability_Level,Peptide_Cleavability_Level,Level,Rank
+ASILRGGKLDK,K,S,Medium,Low,Medium_Low,Level 2,2
+SILRGGKLDK,K,I,Medium,Low,Medium_Low,Level 2,2
+SGGELDKWEK,K,G,Medium,Low,Medium_Low,Level 2,2
+GELDRWEKI,I,E,Medium,High,Medium_High,Level 4,4
+GKLDSWEKIRLR,R,K,Medium,Low,Medium_Low,Level 2,2
+KLDKWEKIR,R,L,Medium,High,Medium_High,Level 4,4
+DAWEKIRLRPG,G,A,Low,Medium,Low_Medium,Level 2,2
+RWEKIRLRP,P,W,Low,Low,Low_Low,Level 1,1
+KIRLRPGGKKK,K,I,Medium,Low,Medium_Low,Level 2,2
+IRLRPGGKK,K,R,Medium,Medium,Medium_Medium,Level 3,3
+LRPGGKKRY,Y,R,High,Medium,High_Medium,Level 4,4
+RPGGKKRYKL,L,P,High,High,High_High,Level 5,5
+PGGKKRYRLKHL,L,G,High,Low,High_Low,Level 3,3
+GGKKKYKLKHIV,V,G,High,Low,High_Low,Level 3,3
+KRYMIKHLV,V,R,High,Medium,High_Medium,Level 4,4
+HYMLKHIVW,W,Y,High,Medium,High_Medium,Level 4,4
+QLQPSLQTGS,S,L,Low,High,Low_High,Level 3,3
+QLQPSLQTGSEELR,R,L,Medium,High,Medium_High,Level 4,4
+GSEELKSLY,Y,S,High,Low,High_Low,Level 3,3
+EELRSLYNTV,V,E,High,High,High_High,Level 5,5
