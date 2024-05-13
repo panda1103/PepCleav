@@ -1,4 +1,4 @@
-## PepCleav: A feasible strategy for evaluating the cleavability of peptide presented by MHC class I
+## PepCleav: A feasible strategy for evaluating the cleavability of peptide presented by MHC class I  
 
 ## Description
 This package contains a script to run PepCleav.
